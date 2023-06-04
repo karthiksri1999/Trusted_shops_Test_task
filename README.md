@@ -19,7 +19,7 @@ from selenium.webdriver.support import expected_conditions as EC
 ### Set up Selenium options
 options = Options()
 options.add_argument("--disable-logging")
-###Set up Chrome driver service
+### Set up Chrome driver service
 service = Service("C:\Karthik\Code\chromedriver_win32\chromedriver.exe")
 ### Choose Chrome browser
 driver = webdriver.Chrome(service=service, options=options)
