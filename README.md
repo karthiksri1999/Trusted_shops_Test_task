@@ -1,7 +1,7 @@
 # Trusted_shops_Test_task 
 
 ### To perform the end-to-end test on the Trusted Shops profile page, I am using Selenium WebDriver in Python. 
-Here's a step-by-step guide on how to execute the test:
+### Here's a step-by-step guide on how to execute the test:
 
 # Step 1: Install Selenium WebDriver
 ### Install the Selenium WebDriver package for Python using pip: pip install selenium
