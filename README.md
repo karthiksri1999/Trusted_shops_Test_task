@@ -9,7 +9,7 @@ Here's a step-by-step guide on how to execute the test:
 # Step 2: Set up the test environment
 ### Import the necessary modules and set up the WebDriver to use a browser for automation. For this test, I am using Google Chrome:
 
-import time
+import time <br />
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
