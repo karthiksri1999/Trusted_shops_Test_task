@@ -4,10 +4,10 @@ To perform the end-to-end test on the Trusted Shops profile page, I am using Sel
 Here's a step-by-step guide on how to execute the test:
 
 # Step 1: Install Selenium WebDriver
-//Install the Selenium WebDriver package for Python using pip: pip install selenium
+### Install the Selenium WebDriver package for Python using pip: pip install selenium
 
 # Step 2: Set up the test environment
-//Import the necessary modules and set up the WebDriver to use a browser for automation. For this test, I am using Google Chrome:
+### Import the necessary modules and set up the WebDriver to use a browser for automation. For this test, I am using Google Chrome:
 
 import time
 from selenium import webdriver
