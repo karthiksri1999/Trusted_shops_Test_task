@@ -37,9 +37,9 @@ page_title = wait.until(EC.presence_of_element_located((By.XPATH, "//title"))) <
 title_text = page_title.get_attribute("text") <br />
 ### Check if the page title exists and print it
 if title_text: <br />
-&nbsp print("Page title exists:", title_text) <br />
+print("Page title exists:", title_text) <br />
 else: <br />
-&nbsp print("Page title does not exist.") <br />
+print("Page title does not exist.") <br />
 
 # Step 5: Check if the grade is visible and above zero
 ### Find the grade element
